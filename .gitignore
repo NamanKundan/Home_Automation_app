@@ -45,3 +45,10 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# API Keys and sensitive configuration
+**/firebase_options.dart
+**/google-services.json
+**/.env
+**/.env.*
+!**/.env.example
