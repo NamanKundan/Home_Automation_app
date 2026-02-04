@@ -52,6 +52,3 @@ IntelliNest is an advanced home automation system powered by an ESP32 microcontr
 - The lights, fans, and other appliances operate as per the commands received.
 
 
-
-
-
