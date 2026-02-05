@@ -179,13 +179,6 @@ class _SettingsPageState extends State<SettingsPage> {
                 ],
               ),
             ),
-            Align(
-              alignment: Alignment.bottomCenter,
-              child: Text(
-                'Made with ❤️ by Siddharth Bhaskar',
-                style: GoogleFonts.poppins(fontSize: 12, color: Colors.white70),
-              ),
-            ),
           ],
         ),
       ),
